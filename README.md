@@ -12,6 +12,20 @@
  - Vue 3 / Pinia / ElementPlus
  - IndexedDB/ PWA
 
+## 运行和打包
+
+安装依赖
+
+`npm install`
+
+运行
+
+`npm run dev`
+
+打包
+
+`npm run build`
+
 ## 截图
 ![首页截图](http://files.coderdusk.com/files/3710e249-a967-4ecd-b2e7-01c350b86a22.png)
 ![设置截图](http://files.coderdusk.com/files/4e49a368-a2cd-4cba-bd04-c393b5664555.png)
